@@ -47,7 +47,9 @@ The application integrates **Shell in a Box** with **PHP verification functions*
 - Remote assessment capability from anywhere with internet access.  
 
 ## Conclusion  
-This app is a powerful tool for assessing candidates in shell scripting, Linux command-line usage, and PHP programming. It delivers an intuitive, interactive experience, providing valuable insights for recruitment and skill evaluation.
+This app is a powerful tool for assessing candidates in shell scripting, Linux command-line usage. 
+
+It delivers an intuitive, interactive experience, providing valuable insights for recruitment and skill evaluation.
 
 ![image](https://github.com/user-attachments/assets/b879a3de-155e-468c-a0b2-318161719266)
 
