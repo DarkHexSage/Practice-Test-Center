@@ -53,6 +53,8 @@ It delivers an intuitive, interactive experience, providing valuable insights fo
 
 ![image](https://github.com/user-attachments/assets/b879a3de-155e-468c-a0b2-318161719266)
 
+###Deployment instructions
+Get the docker file and build it, afterward run a container with port 80 being exposed to your port 80.
 ```bash
 
 ┌──(root㉿kali)-[/home/kali]
