@@ -1,0 +1,52 @@
+##Greenonblack
+
+#vt100 #cursor.bright {
+  background-color: black!important; /* Change background color to black */
+  color:            lime!important; /* Change text color to green */
+}
+
+#vt100 #cursor.dim {
+  background-color: black!important;
+}
+
+#vt100 #scrollable {
+  color:            lime!important;
+  background-color: black!important;
+}
+
+#vt100 #scrollable.inverted {
+  color:            black!important;
+  background-color: lime!important;
+}
+
+#vt100 .ansiDef {
+  color:            lime!important;
+}
+
+#vt100 .ansiDefR {
+  color:            black!important;
+}
+
+#vt100 .bgAnsiDef {
+  background-color: black!important;
+}
+
+#vt100 .bgAnsiDefR {
+  background-color: lime!important;
+}
+
+#vt100 #scrollable.inverted .ansiDef {
+  color:            black!important;
+}
+
+#vt100 #scrollable.inverted .ansiDefR {
+  color:            lime!important;
+}
+
+#vt100 #scrollable.inverted .bgAnsiDef {
+  background-color: lime!important;
+}
+
+#vt100 #scrollable.inverted .bgAnsiDefR {
+  background-color: black!important;
+}
